@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! This website showcases my projects, sk
 
 ## Demo 🌐
 
-You can view the live demo of my portfolio [here](https://congchu.github.io/web-porfolio/).
+You can view the live demo of my portfolio [here](https://akshayav222.github.io/).
 
 ## Features ✨
 
