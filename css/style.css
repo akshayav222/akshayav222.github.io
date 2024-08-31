@@ -9672,3 +9672,72 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+
+.contact-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    padding: 20px;
+}
+
+.contact-card {
+  background-color: #fff;
+  border-radius: 15px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  display: flex;
+  padding: 40px;
+  max-width: 800px; /* Adjust width as needed */
+  width: 100%;
+}
+
+
+.contact-info {
+  flex: 1; /* Make the contact info take up equal space */
+  margin-right: 40px;
+}
+
+.contact-form {
+    flex: 1;
+    max-width: 300px;
+}
+
+.form-control {
+    border: 1px solid #e2e2e2;
+    border-radius: 8px;
+    margin-bottom: 15px;
+    padding: 10px;
+    font-size: 14px;
+    width: 100%;
+}
+.container-fluid2 {
+  width: 100%; 
+  max-width: 1200px; /* Restricts the maximum width */
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  min-height: 100vh; /* Minimum height set to the full height of the viewport */
+}
+
+.c1
+{
+  position: relative;
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  padding-top: 20px; /* Add padding at the top */
+  padding-bottom: 20px; /* Add padding at the bottom */
+  max-width: 800px;
+}
+
+  .m1
+  {
+    margin-bottom: 1.5rem !important;
+   }
+
+ .vertical-spacer {
+      height: 20px; /* Adjust this value to increase or decrease the spacing */
+      width: 100%; /* Ensures the spacer takes the full width of its container */
+    }
+    
