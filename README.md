@@ -1,6 +1,6 @@
 # My Portfolio 🚀
 
-Welcome to my personal portfolio website! This website showcases my projects, skills, and experiences in web development and other technologies. The site is built using HTML, CSS, and JavaScript and is hosted on GitHub Pages.
+Welcome to my personal portfolio website! This website showcases my projects, skills, and experiences in data analysis and other technologies. The site is built using HTML, CSS, and JavaScript and is hosted on GitHub Pages.
 
 ## Demo 🌐
 
