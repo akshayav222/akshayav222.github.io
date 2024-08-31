@@ -9710,6 +9710,7 @@ textarea.form-control {
     font-size: 14px;
     width: 100%;
 }
+
 .container-fluid2 {
   width: 100%; 
   max-width: 1200px; /* Restricts the maximum width */
@@ -9736,8 +9737,3 @@ textarea.form-control {
     margin-bottom: 1.5rem !important;
    }
 
- .vertical-spacer {
-      height: 20px; /* Adjust this value to increase or decrease the spacing */
-      width: 100%; /* Ensures the spacer takes the full width of its container */
-    }
-    
