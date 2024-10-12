@@ -9773,5 +9773,25 @@ textarea.form-control {
 }
 
 
+.card {
+  border: none;
+  transition: transform 0.3s;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
+
+.card img {
+  width: 100%;            /* The image will take the full width of the card */
+  height: 220px;          /* Set a fixed height for uniformity */
+  object-fit: cover;      /* Ensures the image covers the entire area while maintaining aspect ratio */
+  object-position: center;/* Centers the image within the frame */
+  border-radius: 8px;
+}
+
+.card-body {
+  padding: 15px;
+}
 
   
